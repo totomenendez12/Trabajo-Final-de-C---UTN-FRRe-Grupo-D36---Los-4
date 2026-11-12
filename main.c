@@ -3,7 +3,7 @@
 #include "artemis.h"
 #ifdef _WIN32
     #include <windows.h> 
-#endif
+#endif 
 #include "validaciones.h" // Incluimos el módulo de entradas seguras 
 
 // Prototipo local para limpiar pantalla según el SO
