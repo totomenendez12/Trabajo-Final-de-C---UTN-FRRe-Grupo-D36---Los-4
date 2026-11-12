@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 #include <stdlib.h> // Necesario para la función exit() y limpieza de pantalla
 #include "artemis.h"
 #ifdef _WIN32
