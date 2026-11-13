@@ -10,6 +10,8 @@ Integrantes y Comisión
     *   Monzon, Lourdes - 30399
     *   Pareja Bruno, Maria del Pilar - 30720
 
+Link al video: https://youtu.be/qqWofU1UWlw
+
 Descripción del Escenario Asignado y Reglas de Simulación
 **Escenario:** Ascenso y Propulsión con el SLS (MRUV y Desprendimiento).
 
