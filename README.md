@@ -3,7 +3,7 @@ Trabajo Práctico Integrador Final: Simulador de Misiones Artemis
 Este repositorio contiene el código fuente del simulador cinemático de la misión Artemis (Ascenso del SLS y nave Orion), desarrollado como Trabajo Práctico Integrador Final para la cátedra de Algoritmos y Estructuras de Datos.
 
 Integrantes y Comisión
-*   **Comisión / Grupo:** Grupo D36 - "Los 4"
+*   **Comisión / Grupo:** K1.4 / Grupo D36 - "Los 4"
 *   **Integrantes:**
     *   Gonzalez, Valentina - 30085
     *   Menendez, Ignacio Manuel - 30157
